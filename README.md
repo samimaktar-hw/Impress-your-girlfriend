@@ -35,7 +35,7 @@ A luxury, interactive romantic web experience built with Vanilla JavaScript, Web
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/saklincodes/The-Golden-Proposal.git
+   https://github.com/samimaktar-hw/Impress-your-girlfriend.git
    ```
 
 2. **Navigate to the directory**:
@@ -68,4 +68,4 @@ The-Golden-Proposal/
 
 Distributed under the MIT License. See `LICENSE` for details.
 
-Developed with ❤️ by [saklincodes](https://github.com/saklincodes).
+Developed with ❤️ by [samim aktar](https://samimaktar-hw.github.io/Hexca-web-/#home).
