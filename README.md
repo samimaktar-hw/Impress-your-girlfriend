@@ -40,7 +40,7 @@ A luxury, interactive romantic web experience built with Vanilla JavaScript, Web
 
 2. **Navigate to the directory**:
    ```bash
-   cd The-Golden-Proposal
+   cd impress your girlfriend
    ```
 
 3. **Run locally**:
