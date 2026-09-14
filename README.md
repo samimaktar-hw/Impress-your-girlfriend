@@ -1,4 +1,4 @@
-# 💍 The Golden Proposal
+# 💍 impress your girlfriend
 
 A luxury, interactive romantic web experience built with Vanilla JavaScript, Web Audio API, and modern CSS layout systems. Features a seamless single-stage interactive flow, custom audio synthesis, dynamic dialogue progression, and responsive animations.
 
